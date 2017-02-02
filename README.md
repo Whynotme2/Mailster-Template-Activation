@@ -22,7 +22,7 @@ Not working examples:
 
 ## Installation ##
 
-* Copy the entire folder to an directory on your server which is accessible via http like `https://example.com/mailster-template-activation`/.
+* Copy the entire folder to an directory on your server which is accessible via http like `https://example.com/mailster-template-activation/`.
 * Rename the `config.sample.php` to `config.php`.
 * Go to the [Manage apps page](https://build.envato.com/my-apps/) on Envato and "Register a new app".
 * Call it something like "Your Name Mailster templates".
