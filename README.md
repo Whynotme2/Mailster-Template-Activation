@@ -74,7 +74,7 @@ Please check if your "Redirect URL" is equal to the one you have defined in your
 
 ## Make your templates visible to Mailster users ##
 
-**Please use [this form](http://goo.gl/forms/sR2ryJFPu3) to submit your data**
+**Please use [this form](https://goo.gl/forms/slLTwKcvXoGHo9372) to submit your data**
 
 For the final step it's required to send me some information about your templates so I can add them to the list of available templates.
 For this information I need following info:
