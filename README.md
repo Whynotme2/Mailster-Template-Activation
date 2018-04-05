@@ -74,7 +74,7 @@ Please check if your "Redirect URL" is equal to the one you have defined in your
 
 ## Make your templates visible to Mailster users ##
 
-**Please use [this form](https://goo.gl/forms/slLTwKcvXoGHo9372) to submit your data**
+**Please use [this form](https://goo.gl/forms/8FyHTyZIn6huIsPF2) to submit your data**
 
 For the final step it's required to send me some information about your templates so I can add them to the list of available templates.
 For this information I need following info:
@@ -104,7 +104,7 @@ Your endpoint you have defined about (`https://example.com/mailster-template-act
 The ID of your template on the Envato marketplace.
 
 
-**Please use [this form](https://goo.gl/forms/Kg5KU57yI4MpwLfH2) to submit your data**
+**Please use [this form](https://goo.gl/forms/8FyHTyZIn6huIsPF2) to submit your data**
 
 I will check your information and will update you when the information has been added. It will take up to 24 hours to be visible on the templates page of all users.
 
